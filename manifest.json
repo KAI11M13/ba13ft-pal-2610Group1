@@ -1,0 +1,82 @@
+[
+  {
+    "year": "2025",
+    "dataset_id": 1262,
+    "source_url": "https://idh-be.iowa.gov/api/v1/datasets/1262/rows.csv",
+    "downloaded_at_utc": "2026-10-16T11:28:39+00:00",
+    "download_file": "snapshot_20261016/iowa_liquor_sales_2025_1262.zip",
+    "bytes": 631322656,
+    "sha256": "bf4a404c60f8ec89d242e92437af37fe63b88aae90eba8e83aea2c335d89887e",
+    "csv_parts": [
+      {
+        "file": "iowa_liquor_sales_2025_1262_rows_part_0001.csv",
+        "rows": 598080,
+        "has_header": true,
+        "utf8": true
+      },
+      {
+        "file": "iowa_liquor_sales_2025_1262_rows_part_0002.csv",
+        "rows": 775752,
+        "has_header": true,
+        "utf8": true
+      },
+      {
+        "file": "iowa_liquor_sales_2025_1262_rows_part_0003.csv",
+        "rows": 628867,
+        "has_header": true,
+        "utf8": true
+      },
+      {
+        "file": "iowa_liquor_sales_2025_1262_rows_part_0004.csv",
+        "rows": 487921,
+        "has_header": true,
+        "utf8": true
+      },
+      {
+        "file": "iowa_liquor_sales_2025_1262_rows_part_0005.csv",
+        "rows": 429989,
+        "has_header": true,
+        "utf8": true
+      }
+    ],
+    "rows": 2920609,
+    "matches_frozen_release": false
+  },
+  {
+    "year": "2026",
+    "dataset_id": 1263,
+    "source_url": "https://idh-be.iowa.gov/api/v1/datasets/1263/rows.csv",
+    "downloaded_at_utc": "2026-10-16T11:28:39+00:00",
+    "download_file": "snapshot_20261016/iowa_liquor_sales_2026_1263.zip",
+    "bytes": 399290626,
+    "sha256": "2ff04124fc1941bf1b0029220e276f630efc1d95e25a6ecab0b93e8a919bcccd",
+    "csv_parts": [
+      {
+        "file": "iowa_liquor_sales_2026_1263_rows_part_0001.csv",
+        "rows": 445274,
+        "has_header": true,
+        "utf8": true
+      },
+      {
+        "file": "iowa_liquor_sales_2026_1263_rows_part_0002.csv",
+        "rows": 437005,
+        "has_header": true,
+        "utf8": true
+      },
+      {
+        "file": "iowa_liquor_sales_2026_1263_rows_part_0003.csv",
+        "rows": 506780,
+        "has_header": true,
+        "utf8": true
+      },
+      {
+        "file": "iowa_liquor_sales_2026_1263_rows_part_0004.csv",
+        "rows": 425797,
+        "has_header": true,
+        "utf8": true
+      }
+    ],
+    "rows": 1814856,
+    "matches_frozen_release": true
+  }
+]
